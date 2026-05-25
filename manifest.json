@@ -290,6 +290,126 @@
       "file": "0037.json",
       "words": 46,
       "size": "11×11"
+    },
+    {
+      "id": "0038",
+      "title": "Crucigrama #38",
+      "difficulty": 1,
+      "file": "0038.json",
+      "words": 33,
+      "size": "9×9"
+    },
+    {
+      "id": "0039",
+      "title": "Crucigrama #39",
+      "difficulty": 2,
+      "file": "0039.json",
+      "words": 48,
+      "size": "11×11"
+    },
+    {
+      "id": "0040",
+      "title": "Crucigrama #40",
+      "difficulty": 3,
+      "file": "0040.json",
+      "words": 75,
+      "size": "15×15"
+    },
+    {
+      "id": "0041",
+      "title": "Crucigrama #41",
+      "difficulty": 1,
+      "file": "0041.json",
+      "words": 32,
+      "size": "9×9"
+    },
+    {
+      "id": "0042",
+      "title": "Crucigrama #42",
+      "difficulty": 2,
+      "file": "0042.json",
+      "words": 42,
+      "size": "11×11"
+    },
+    {
+      "id": "0043",
+      "title": "Crucigrama #43",
+      "difficulty": 3,
+      "file": "0043.json",
+      "words": 76,
+      "size": "15×15"
+    },
+    {
+      "id": "0044",
+      "title": "Crucigrama #44",
+      "difficulty": 1,
+      "file": "0044.json",
+      "words": 33,
+      "size": "9×9"
+    },
+    {
+      "id": "0045",
+      "title": "Crucigrama #45",
+      "difficulty": 2,
+      "file": "0045.json",
+      "words": 45,
+      "size": "11×11"
+    },
+    {
+      "id": "0046",
+      "title": "Crucigrama #46",
+      "difficulty": 3,
+      "file": "0046.json",
+      "words": 69,
+      "size": "15×15"
+    },
+    {
+      "id": "0047",
+      "title": "Crucigrama #47",
+      "difficulty": 1,
+      "file": "0047.json",
+      "words": 32,
+      "size": "9×9"
+    },
+    {
+      "id": "0048",
+      "title": "Crucigrama #48",
+      "difficulty": 2,
+      "file": "0048.json",
+      "words": 44,
+      "size": "11×11"
+    },
+    {
+      "id": "0049",
+      "title": "Crucigrama #49",
+      "difficulty": 3,
+      "file": "0049.json",
+      "words": 75,
+      "size": "15×15"
+    },
+    {
+      "id": "0050",
+      "title": "Crucigrama #50",
+      "difficulty": 1,
+      "file": "0050.json",
+      "words": 32,
+      "size": "9×9"
+    },
+    {
+      "id": "0051",
+      "title": "Crucigrama #51",
+      "difficulty": 2,
+      "file": "0051.json",
+      "words": 46,
+      "size": "11×11"
+    },
+    {
+      "id": "0052",
+      "title": "Crucigrama #52",
+      "difficulty": 3,
+      "file": "0052.json",
+      "words": 73,
+      "size": "15×15"
     }
   ]
 }
