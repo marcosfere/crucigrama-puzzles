@@ -1,3 +1,274 @@
 {
-  "puzzles": []
+  "puzzles": [
+    {
+      "id": "0076",
+      "title": "Crucigrama #76",
+      "difficulty": 1,
+      "file": "0076.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "e28f76d66c729513"
+    },
+    {
+      "id": "0077",
+      "title": "Crucigrama #77",
+      "difficulty": 1,
+      "file": "0077.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "1eb6816562278a40"
+    },
+    {
+      "id": "0078",
+      "title": "Crucigrama #78",
+      "difficulty": 1,
+      "file": "0078.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "d8a82c7b64fd0559"
+    },
+    {
+      "id": "0079",
+      "title": "Crucigrama #79",
+      "difficulty": 1,
+      "file": "0079.json",
+      "words": 27,
+      "size": "8×8",
+      "hash": "d9eb5f96391a65de"
+    },
+    {
+      "id": "0080",
+      "title": "Crucigrama #80",
+      "difficulty": 1,
+      "file": "0080.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "fdde37adb8d44824"
+    },
+    {
+      "id": "0081",
+      "title": "Crucigrama #81",
+      "difficulty": 1,
+      "file": "0081.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "5f50a510177879dd"
+    },
+    {
+      "id": "0082",
+      "title": "Crucigrama #82",
+      "difficulty": 1,
+      "file": "0082.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "40b7bf1254385152"
+    },
+    {
+      "id": "0083",
+      "title": "Crucigrama #83",
+      "difficulty": 1,
+      "file": "0083.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "a3d2dfc39c59fd3f"
+    },
+    {
+      "id": "0084",
+      "title": "Crucigrama #84",
+      "difficulty": 1,
+      "file": "0084.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "e9af1bee6341b1b9"
+    },
+    {
+      "id": "0085",
+      "title": "Crucigrama #85",
+      "difficulty": 1,
+      "file": "0085.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "185f6497e98bc682"
+    },
+    {
+      "id": "0086",
+      "title": "Crucigrama #86",
+      "difficulty": 1,
+      "file": "0086.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "2377876ad4056b2a"
+    },
+    {
+      "id": "0087",
+      "title": "Crucigrama #87",
+      "difficulty": 1,
+      "file": "0087.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "418fbc7bbe358e50"
+    },
+    {
+      "id": "0088",
+      "title": "Crucigrama #88",
+      "difficulty": 1,
+      "file": "0088.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "3a0efc1fad085e07"
+    },
+    {
+      "id": "0089",
+      "title": "Crucigrama #89",
+      "difficulty": 1,
+      "file": "0089.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "0cd8cffa126e0b77"
+    },
+    {
+      "id": "0090",
+      "title": "Crucigrama #90",
+      "difficulty": 2,
+      "file": "0090.json",
+      "words": 39,
+      "size": "10×10",
+      "hash": "8f5900984c9fa73c"
+    },
+    {
+      "id": "0091",
+      "title": "Crucigrama #91",
+      "difficulty": 2,
+      "file": "0091.json",
+      "words": 38,
+      "size": "10×10",
+      "hash": "8a4bc466716eeaea"
+    },
+    {
+      "id": "0092",
+      "title": "Crucigrama #92",
+      "difficulty": 2,
+      "file": "0092.json",
+      "words": 40,
+      "size": "10×10",
+      "hash": "485ee80741570e6c"
+    },
+    {
+      "id": "0093",
+      "title": "Crucigrama #93",
+      "difficulty": 2,
+      "file": "0093.json",
+      "words": 39,
+      "size": "10×10",
+      "hash": "6f3103604c3bd9a1"
+    },
+    {
+      "id": "0094",
+      "title": "Crucigrama #94",
+      "difficulty": 2,
+      "file": "0094.json",
+      "words": 39,
+      "size": "10×10",
+      "hash": "0d5d7ca2b567ac2c"
+    },
+    {
+      "id": "0095",
+      "title": "Crucigrama #95",
+      "difficulty": 2,
+      "file": "0095.json",
+      "words": 37,
+      "size": "10×10",
+      "hash": "eee8f4d77888047f"
+    },
+    {
+      "id": "0096",
+      "title": "Crucigrama #96",
+      "difficulty": 2,
+      "file": "0096.json",
+      "words": 35,
+      "size": "10×10",
+      "hash": "b35a77152f8aad60"
+    },
+    {
+      "id": "0097",
+      "title": "Crucigrama #97",
+      "difficulty": 2,
+      "file": "0097.json",
+      "words": 38,
+      "size": "10×10",
+      "hash": "0c1ed5180dac2841"
+    },
+    {
+      "id": "0098",
+      "title": "Crucigrama #98",
+      "difficulty": 2,
+      "file": "0098.json",
+      "words": 38,
+      "size": "10×10",
+      "hash": "e4b993b67cb1004c"
+    },
+    {
+      "id": "0099",
+      "title": "Crucigrama #99",
+      "difficulty": 2,
+      "file": "0099.json",
+      "words": 39,
+      "size": "10×10",
+      "hash": "d0746625b5b09ea2"
+    },
+    {
+      "id": "0100",
+      "title": "Crucigrama #100",
+      "difficulty": 3,
+      "file": "0100.json",
+      "words": 66,
+      "size": "14×14",
+      "hash": "721fc4d9892fb071"
+    },
+    {
+      "id": "0101",
+      "title": "Crucigrama #101",
+      "difficulty": 3,
+      "file": "0101.json",
+      "words": 66,
+      "size": "14×14",
+      "hash": "a0c0f59275d6833f"
+    },
+    {
+      "id": "0102",
+      "title": "Crucigrama #102",
+      "difficulty": 3,
+      "file": "0102.json",
+      "words": 67,
+      "size": "14×14",
+      "hash": "f4f0b01abc340929"
+    },
+    {
+      "id": "0103",
+      "title": "Crucigrama #103",
+      "difficulty": 3,
+      "file": "0103.json",
+      "words": 68,
+      "size": "14×14",
+      "hash": "a82fbbdca53082ba"
+    },
+    {
+      "id": "0104",
+      "title": "Crucigrama #104",
+      "difficulty": 3,
+      "file": "0104.json",
+      "words": 67,
+      "size": "14×14",
+      "hash": "7053fc57ea699209"
+    },
+    {
+      "id": "0105",
+      "title": "Crucigrama #105",
+      "difficulty": 3,
+      "file": "0105.json",
+      "words": 64,
+      "size": "14×14",
+      "hash": "ac0b9e8cfb7b0d01"
+    }
+  ]
 }
