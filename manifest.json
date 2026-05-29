@@ -1,3 +1,85 @@
 {
-  "puzzles": []
+  "puzzles": [
+    {
+      "id": "0118",
+      "title": "Crucigrama #118",
+      "difficulty": 1,
+      "file": "0118.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "a1c8dd3c4d2167f3"
+    },
+    {
+      "id": "0119",
+      "title": "Crucigrama #119",
+      "difficulty": 1,
+      "file": "0119.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "54bc86dd48265a8c"
+    },
+    {
+      "id": "0120",
+      "title": "Crucigrama #120",
+      "difficulty": 1,
+      "file": "0120.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "3414437d09fae690"
+    },
+    {
+      "id": "0121",
+      "title": "Crucigrama #121",
+      "difficulty": 1,
+      "file": "0121.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "a58b012058b03080"
+    },
+    {
+      "id": "0122",
+      "title": "Crucigrama #122",
+      "difficulty": 1,
+      "file": "0122.json",
+      "words": 24,
+      "size": "8×8",
+      "hash": "9675d2fabfd163c1"
+    },
+    {
+      "id": "0123",
+      "title": "Crucigrama #123",
+      "difficulty": 2,
+      "file": "0123.json",
+      "words": 37,
+      "size": "10×10",
+      "hash": "7d5ba83a542f3d67"
+    },
+    {
+      "id": "0124",
+      "title": "Crucigrama #124",
+      "difficulty": 2,
+      "file": "0124.json",
+      "words": 36,
+      "size": "10×10",
+      "hash": "d3d35464cf50a088"
+    },
+    {
+      "id": "0125",
+      "title": "Crucigrama #125",
+      "difficulty": 2,
+      "file": "0125.json",
+      "words": 36,
+      "size": "10×10",
+      "hash": "22c4ba705900e6ba"
+    },
+    {
+      "id": "0126",
+      "title": "Crucigrama #126",
+      "difficulty": 2,
+      "file": "0126.json",
+      "words": 38,
+      "size": "10×10",
+      "hash": "f170be38f96471b6"
+    }
+  ]
 }
