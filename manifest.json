@@ -1,3 +1,112 @@
 {
-  "puzzles": []
+  "puzzles": [
+    {
+      "id": "0137",
+      "title": "Crucigrama #137",
+      "difficulty": 1,
+      "file": "0137.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "ac2f2075f3baa1c3"
+    },
+    {
+      "id": "0138",
+      "title": "Crucigrama #138",
+      "difficulty": 1,
+      "file": "0138.json",
+      "words": 24,
+      "size": "8×8",
+      "hash": "2ffa225bd690c65f"
+    },
+    {
+      "id": "0139",
+      "title": "Crucigrama #139",
+      "difficulty": 1,
+      "file": "0139.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "9752c6f7b3d47a8a"
+    },
+    {
+      "id": "0140",
+      "title": "Crucigrama #140",
+      "difficulty": 1,
+      "file": "0140.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "64c9e3613971d73a"
+    },
+    {
+      "id": "0141",
+      "title": "Crucigrama #141",
+      "difficulty": 1,
+      "file": "0141.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "fea1ec5df0a3acb3"
+    },
+    {
+      "id": "0142",
+      "title": "Crucigrama #142",
+      "difficulty": 2,
+      "file": "0142.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "98ec3edca47fb344"
+    },
+    {
+      "id": "0143",
+      "title": "Crucigrama #143",
+      "difficulty": 2,
+      "file": "0143.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "a9a195427fb1d6d4"
+    },
+    {
+      "id": "0144",
+      "title": "Crucigrama #144",
+      "difficulty": 2,
+      "file": "0144.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "6a5fa74c708b99df"
+    },
+    {
+      "id": "0145",
+      "title": "Crucigrama #145",
+      "difficulty": 2,
+      "file": "0145.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "37c9f916e1c5eccb"
+    },
+    {
+      "id": "0146",
+      "title": "Crucigrama #146",
+      "difficulty": 3,
+      "file": "0146.json",
+      "words": 63,
+      "size": "14×14",
+      "hash": "4d2b04f6447f5f7d"
+    },
+    {
+      "id": "0147",
+      "title": "Crucigrama #147",
+      "difficulty": 3,
+      "file": "0147.json",
+      "words": 62,
+      "size": "14×14",
+      "hash": "5991842dfd56bd7d"
+    },
+    {
+      "id": "0148",
+      "title": "Crucigrama #148",
+      "difficulty": 3,
+      "file": "0148.json",
+      "words": 65,
+      "size": "14×14",
+      "hash": "425bc4cb55ac5404"
+    }
+  ]
 }
