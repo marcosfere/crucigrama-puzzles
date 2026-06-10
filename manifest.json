@@ -107,6 +107,276 @@
       "words": 65,
       "size": "14×14",
       "hash": "425bc4cb55ac5404"
+    },
+    {
+      "id": "0149",
+      "title": "Crucigrama #149",
+      "difficulty": 1,
+      "file": "0149.json",
+      "words": 24,
+      "size": "8×8",
+      "hash": "80787115c1a14b05"
+    },
+    {
+      "id": "0150",
+      "title": "Crucigrama #150",
+      "difficulty": 1,
+      "file": "0150.json",
+      "words": 24,
+      "size": "8×8",
+      "hash": "7ac8aaf2a13425b0"
+    },
+    {
+      "id": "0151",
+      "title": "Crucigrama #151",
+      "difficulty": 1,
+      "file": "0151.json",
+      "words": 24,
+      "size": "8×8",
+      "hash": "8d8f079b0de9d6ac"
+    },
+    {
+      "id": "0152",
+      "title": "Crucigrama #152",
+      "difficulty": 1,
+      "file": "0152.json",
+      "words": 24,
+      "size": "8×8",
+      "hash": "118b8c078e22ebc8"
+    },
+    {
+      "id": "0153",
+      "title": "Crucigrama #153",
+      "difficulty": 1,
+      "file": "0153.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "e0c933559a69d849"
+    },
+    {
+      "id": "0154",
+      "title": "Crucigrama #154",
+      "difficulty": 1,
+      "file": "0154.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "5da353cc6f609aff"
+    },
+    {
+      "id": "0155",
+      "title": "Crucigrama #155",
+      "difficulty": 1,
+      "file": "0155.json",
+      "words": 25,
+      "size": "8×8",
+      "hash": "6a02e081a1f82e41"
+    },
+    {
+      "id": "0156",
+      "title": "Crucigrama #156",
+      "difficulty": 1,
+      "file": "0156.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "a901563eea5c5210"
+    },
+    {
+      "id": "0157",
+      "title": "Crucigrama #157",
+      "difficulty": 1,
+      "file": "0157.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "57a133cc81946a79"
+    },
+    {
+      "id": "0158",
+      "title": "Crucigrama #158",
+      "difficulty": 1,
+      "file": "0158.json",
+      "words": 28,
+      "size": "8×8",
+      "hash": "0fed4648dad5bd0d"
+    },
+    {
+      "id": "0159",
+      "title": "Crucigrama #159",
+      "difficulty": 2,
+      "file": "0159.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "68148fe5fa1e3fce"
+    },
+    {
+      "id": "0160",
+      "title": "Crucigrama #160",
+      "difficulty": 2,
+      "file": "0160.json",
+      "words": 35,
+      "size": "10×10",
+      "hash": "50ef23847501fed2"
+    },
+    {
+      "id": "0161",
+      "title": "Crucigrama #161",
+      "difficulty": 2,
+      "file": "0161.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "d00a47744ebfd5e7"
+    },
+    {
+      "id": "0162",
+      "title": "Crucigrama #162",
+      "difficulty": 2,
+      "file": "0162.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "71eea83f596ad99f"
+    },
+    {
+      "id": "0163",
+      "title": "Crucigrama #163",
+      "difficulty": 2,
+      "file": "0163.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "defe24b3e46b3ff7"
+    },
+    {
+      "id": "0164",
+      "title": "Crucigrama #164",
+      "difficulty": 2,
+      "file": "0164.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "0e5d39244a57fee9"
+    },
+    {
+      "id": "0165",
+      "title": "Crucigrama #165",
+      "difficulty": 2,
+      "file": "0165.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "f4867e8a7c03bded"
+    },
+    {
+      "id": "0166",
+      "title": "Crucigrama #166",
+      "difficulty": 2,
+      "file": "0166.json",
+      "words": 33,
+      "size": "10×10",
+      "hash": "80ba3d6b94b1ddbc"
+    },
+    {
+      "id": "0167",
+      "title": "Crucigrama #167",
+      "difficulty": 2,
+      "file": "0167.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "54f1e1d2672f961f"
+    },
+    {
+      "id": "0168",
+      "title": "Crucigrama #168",
+      "difficulty": 2,
+      "file": "0168.json",
+      "words": 34,
+      "size": "10×10",
+      "hash": "9fe955b351d8357b"
+    },
+    {
+      "id": "0169",
+      "title": "Crucigrama #169",
+      "difficulty": 3,
+      "file": "0169.json",
+      "words": 65,
+      "size": "14×14",
+      "hash": "d116b208653f8a45"
+    },
+    {
+      "id": "0170",
+      "title": "Crucigrama #170",
+      "difficulty": 3,
+      "file": "0170.json",
+      "words": 62,
+      "size": "14×14",
+      "hash": "8d1a852fe9a92af3"
+    },
+    {
+      "id": "0171",
+      "title": "Crucigrama #171",
+      "difficulty": 3,
+      "file": "0171.json",
+      "words": 63,
+      "size": "14×14",
+      "hash": "6650657dba342e48"
+    },
+    {
+      "id": "0172",
+      "title": "Crucigrama #172",
+      "difficulty": 3,
+      "file": "0172.json",
+      "words": 64,
+      "size": "14×14",
+      "hash": "6b378ad6ac6e9c78"
+    },
+    {
+      "id": "0173",
+      "title": "Crucigrama #173",
+      "difficulty": 3,
+      "file": "0173.json",
+      "words": 63,
+      "size": "14×14",
+      "hash": "6c5db22b173eebff"
+    },
+    {
+      "id": "0174",
+      "title": "Crucigrama #174",
+      "difficulty": 3,
+      "file": "0174.json",
+      "words": 64,
+      "size": "14×14",
+      "hash": "e9fa2b9d9f06a101"
+    },
+    {
+      "id": "0175",
+      "title": "Crucigrama #175",
+      "difficulty": 3,
+      "file": "0175.json",
+      "words": 62,
+      "size": "14×14",
+      "hash": "9a1a75b9551a149d"
+    },
+    {
+      "id": "0176",
+      "title": "Crucigrama #176",
+      "difficulty": 3,
+      "file": "0176.json",
+      "words": 63,
+      "size": "14×14",
+      "hash": "7aeac27e412a965f"
+    },
+    {
+      "id": "0177",
+      "title": "Crucigrama #177",
+      "difficulty": 3,
+      "file": "0177.json",
+      "words": 63,
+      "size": "14×14",
+      "hash": "53ded4ec9b1a1761"
+    },
+    {
+      "id": "0178",
+      "title": "Crucigrama #178",
+      "difficulty": 3,
+      "file": "0178.json",
+      "words": 62,
+      "size": "14×14",
+      "hash": "f179158114a571bb"
     }
   ]
 }
